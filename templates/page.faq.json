@@ -1,0 +1,271 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "6ae66ad0-5dd4-4301-b6df-cc5f94d6e8b4": {
+      "type": "faq-tab-layout",
+      "blocks": {
+        "11dfc589-5011-4860-b80e-7e5beb3cae2f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Package",
+            "icon_image_check": false,
+            "accordian_title_icon": "fa fa-chevron-down"
+          }
+        },
+        "7d16375f-821b-422d-9c9c-916194544e29": {
+          "type": "text",
+          "settings": {
+            "title": "How Many Tour Packages Are Available?",
+            "title_color_scheme": "background-1",
+            "description": "At urna condimentum mattis pellentesque id nibh tortor id aliquet. inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Proin gravida nibh vel velit auctor aliquet.",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "0013087e-2455-4a64-8bfe-29d0c3b235cd": {
+          "type": "text",
+          "settings": {
+            "title": "What Is The Cost Of A Vacation Package?",
+            "title_color_scheme": "background-1",
+            "description": "Eu non diam phasellus vestibulum lorem. Eget felis eget nunc lobortis mattis aliquam. donec ultrices justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Turpis egestas pretium aenean pharetra magna.",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "00c07e68-46b5-4602-bc6d-906bb37f21a5": {
+          "type": "text",
+          "settings": {
+            "title": "Do You Offer A Solo Trip?",
+            "title_color_scheme": "background-1",
+            "description": "Sed risus pretium quam vulputate. Purus sit amet volutpat consequat mauris nunc congue. Eu mi bibendum neque egestas. Adipiscing bibendum condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. A diam sollicitudin tempor id eu. Aliquam ut",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "f1dcd15d-6ff8-4e2e-b106-ad65a0873fac": {
+          "type": "text",
+          "settings": {
+            "title": "Do You Arrange Flights For Trips?",
+            "title_color_scheme": "background-1",
+            "description": "Pretium fusce id velit ut tortor. Pharetra convallis posuere morbi leo urna molestie at elementum. Viverra suspendisse potenti nullam ac tortor vitae. Eu feugiat pretium nibh ipsum non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Proin gravida nibh vel velit auctor aliquet.",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "2c8d35d0-8ba5-4862-96c5-05b836c20d86": {
+          "type": "text",
+          "settings": {
+            "title": "Will You Arrange A Tour Guide?",
+            "title_color_scheme": "background-1",
+            "description": "Ullamcorper malesuada proin libero nunc consequat interdum varius. In tellus integer feugiat scelerisque varius  justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Proin gravida nibh vel velit auctor aliquet.",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "9db0f298-667a-4631-96e0-c61e7774f518": {
+          "type": "divider",
+          "settings": {}
+        },
+        "52c4962e-d607-49fd-a606-e2837f56834d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Payment Method",
+            "icon_image_check": false,
+            "accordian_title_icon": "fa fa-chevron-down"
+          }
+        },
+        "726781df-2d5b-419c-b292-231f23c2486f": {
+          "type": "text",
+          "settings": {
+            "title": "What Payment Methods Are Available?",
+            "title_color_scheme": "background-1",
+            "description": "Tellus id interdum velit laoreet id donec ultrices tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "a160a902-c1bd-43d1-9003-4e0a4d6893e9": {
+          "type": "text",
+          "settings": {
+            "title": "Can I Pay Online?",
+            "title_color_scheme": "background-1",
+            "description": "Lacus luctus accumsan tortor posuere ac. Porttitor leo a diam sollicitudin tempor id. Tellus molestie nunc non blandit massa enim nec. Leo duis ut diam quam nulla porttitor massa id neque.",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "837da55b-9449-41d2-aef3-9284284361b7": {
+          "type": "text",
+          "settings": {
+            "title": "How Do I Use My Coupon Code?",
+            "title_color_scheme": "background-1",
+            "description": "Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Vestibulum sed arcu non odio euismod.",
+            "content_color_scheme": "background-1"
+          }
+        },
+        "9a8ceefc-df74-46aa-a2cd-d7792785aec0": {
+          "type": "text",
+          "settings": {
+            "title": "Can I CancelMy Trip?",
+            "title_color_scheme": "background-1",
+            "description": "Faucibus a pellentesque sit amet porttitor eget dolor morbi non. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque.",
+            "content_color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "11dfc589-5011-4860-b80e-7e5beb3cae2f",
+        "7d16375f-821b-422d-9c9c-916194544e29",
+        "0013087e-2455-4a64-8bfe-29d0c3b235cd",
+        "00c07e68-46b5-4602-bc6d-906bb37f21a5",
+        "f1dcd15d-6ff8-4e2e-b106-ad65a0873fac",
+        "2c8d35d0-8ba5-4862-96c5-05b836c20d86",
+        "9db0f298-667a-4631-96e0-c61e7774f518",
+        "52c4962e-d607-49fd-a606-e2837f56834d",
+        "726781df-2d5b-419c-b292-231f23c2486f",
+        "a160a902-c1bd-43d1-9003-4e0a4d6893e9",
+        "837da55b-9449-41d2-aef3-9284284361b7",
+        "9a8ceefc-df74-46aa-a2cd-d7792785aec0"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Amet venenatis urna cursus eget nunc. Ut pharetra sit amet aliquam id.",
+        "heading_alignment": "center",
+        "color_scheme": "accent-1",
+        "top_heading_position": "text-center",
+        "form_image": "shopify:\/\/shop_images\/AdobeStock_438518198_1.png",
+        "form_title": "Do You Have Any Querries?",
+        "padding_top": 135,
+        "padding_bottom": 20
+      }
+    },
+    "2d756e21-647d-4cb1-a52d-b44d164c0d85": {
+      "type": "instagram-gallery",
+      "blocks": {
+        "976f4b02-81a1-4fd1-be03-7212e35765f6": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_386434596_2x_9e612851-b201-4626-a117-a4bf3cd389d0.png",
+            "show_content": true,
+            "icon_class": true,
+            "block_sub_title": "",
+            "block_description": "",
+            "block_button_label": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "5bec396a-3bdf-4307-b791-0ea32d9e085a": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_501968777_2x_1e1c0c40-24d4-4243-b161-4b7cccefafac.png",
+            "show_content": true,
+            "icon_class": true,
+            "block_sub_title": "",
+            "block_description": "",
+            "block_button_label": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "d3a9b602-5292-4997-aa65-8afca9b1aa90": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_279238909_2x_dd8e0144-2d26-4c08-9fe3-735ee2c23620.png",
+            "show_content": true,
+            "icon_class": true,
+            "block_sub_title": "",
+            "block_description": "",
+            "block_button_label": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "23cb20dc-650c-49b7-8b6e-2de9c91b6e32": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_386434596_2x_9e612851-b201-4626-a117-a4bf3cd389d0.png",
+            "show_content": true,
+            "icon_class": true,
+            "block_sub_title": "",
+            "block_description": "",
+            "block_button_label": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "d3667dfe-f5e5-4add-bd97-236539357dd3": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_268946712_2x_5cbb2760-0e82-442a-ae2b-ac7a3c466c78.png",
+            "show_content": true,
+            "icon_class": true,
+            "block_sub_title": "",
+            "block_description": "",
+            "block_button_label": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "ee62d619-9d69-42a6-9711-25be7b4b742a": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/faq-image-1_eeecc9eb-b05f-4b3b-801b-8b028eae5ec8.jpg",
+            "show_content": true,
+            "icon_class": true,
+            "block_sub_title": "Sub title",
+            "block_description": "Short description",
+            "block_button_label": "Button label",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "976f4b02-81a1-4fd1-be03-7212e35765f6",
+        "5bec396a-3bdf-4307-b791-0ea32d9e085a",
+        "d3a9b602-5292-4997-aa65-8afca9b1aa90",
+        "23cb20dc-650c-49b7-8b6e-2de9c91b6e32",
+        "d3667dfe-f5e5-4add-bd97-236539357dd3",
+        "ee62d619-9d69-42a6-9711-25be7b4b742a"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "column_alignment": "left",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "padding_top": 52,
+        "padding_bottom": 36,
+        "swiper_enable": true,
+        "desktop_column": 5,
+        "laptop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": false,
+        "arrow_on_mobile": false,
+        "columns_mobile": "1",
+        "custom_class_name": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6ae66ad0-5dd4-4301-b6df-cc5f94d6e8b4",
+    "2d756e21-647d-4cb1-a52d-b44d164c0d85"
+  ]
+}

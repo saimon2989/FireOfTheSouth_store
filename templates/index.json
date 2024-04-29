@@ -1,0 +1,1014 @@
+{
+  "sections": {
+    "66e712ec-c5e7-4075-805e-5549df0e4b21": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18572285182250__66e712ec-c5e7-4075-805e-5549df0e4b21-1686029702e361f1d8-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AdobeStock_245684006_2x_4f436313-3c77-4d9b-8d1a-28fa09feb930.png",
+            "mobile_image": "shopify:\/\/shop_images\/mobile-slider-3.jpg",
+            "slide-head": "shopify:\/\/shop_images\/White-Reverse.gif",
+            "heading": "SUPERB <span> ADVENTURE TRAVEL<\/span> FOR",
+            "heading_size": "h1",
+            "headings": "<span>HOLIDAYS<\/span>",
+            "subheading": "",
+            "text": "Dignissim diam quis enim lobortis.  sodales neque. Fames ac turpis egestas integer eget aliquet. Arcu dui vivamus arcu felis.Cursus euismod quis viverra nibh cras pulvinar mattis. Massa tincidunt dui ut ornare lectus sit amet est.",
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/family-tour",
+            "button_label1": "read more",
+            "link1": "shopify:\/\/collections\/solo-trip",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 60,
+            "color_scheme": "none",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1526dfac-3569-4455-a56b-42bff8ca13c4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AdobeStock_120865993-df.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/New_Project.jpg",
+            "heading": "LOVELY <span> ADVENTURE<\/span> FOR",
+            "heading_size": "h1",
+            "headings": "<span>FAMILY<\/span>",
+            "subheading": "",
+            "text": "Sodales neque. Fames ac turpis egestas integer eget aliquet. Arcu dui vivamus arcu felis.Cursus euismod quis viverra nibh cras pulvinar mattis. Massa tincidunt dui ut ornare lectus sit amet est. Dignissim diam quis enim lobortis.",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/local-tour",
+            "button_label1": "READ MORE",
+            "link1": "shopify:\/\/collections\/family-tour",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "none",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "c3bd6e94-f792-459d-911a-a45daa5cc65c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slider_-1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/mobile-slider-1.jpg",
+            "heading": "MULTI <span> ADVENTURE <\/span> ACTIVITY",
+            "heading_size": "h1",
+            "headings": "<span>TRIPS<\/span>",
+            "subheading": "",
+            "text": "Dignissim diam quis enim lobortis.  sodales neque. Fames ac turpis egestas integer eget aliquet. Arcu dui vivamus arcu felis.Cursus euismod quis viverra nibh cras pulvinar mattis. Massa tincidunt dui ut ornare lectus sit amet est.",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/international-tour",
+            "button_label1": "READ MORE",
+            "link1": "shopify:\/\/collections\/corporate-tour",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "none",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18572285182250__66e712ec-c5e7-4075-805e-5549df0e4b21-1686029702e361f1d8-0",
+        "1526dfac-3569-4455-a56b-42bff8ca13c4",
+        "c3bd6e94-f792-459d-911a-a45daa5cc65c"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "slide_height": "adapt_image",
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "slider_effect": "fade",
+        "show_text_below": false,
+        "bottom-image": "shopify:\/\/shop_images\/Group_140909_2x_c19de4d4-2c4d-4a14-86b2-e4994125173a.png",
+        "custom_class_name": ""
+      }
+    },
+    "c9b412b9-52fa-4d13-9879-017ddeca5697": {
+      "type": "about-grid-list",
+      "blocks": {
+        "9f3f7706-5a21-4c03-ab49-f798e46392ef": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/world-img_2x_04fb303b-3ddd-4e32-a604-87b89c42b3dc.png",
+            "show_content": true,
+            "block_title": "Our Awards",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Elit eget gravida cum sociis.diam sollicitudin tempor id eu. Posuere urna nec tincidunt praesent semper feugiat nibh. Quisque egestas diam in arcu cursus euismod.",
+            "show_border_button": false,
+            "block_button_text": "",
+            "block_button_link": "",
+            "image_1": "shopify:\/\/shop_images\/Mask_Group_3.png",
+            "image_2": "shopify:\/\/shop_images\/Mask_Group_2.png",
+            "image_3": "shopify:\/\/shop_images\/Mask_Group_1.png",
+            "block_color_scheme": "background-1",
+            "desktop_content_alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "9f3f7706-5a21-4c03-ab49-f798e46392ef"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "title": "Explore Your World In New Dimension",
+        "heading_size": "h1",
+        "subtitle": "Odio morbi quis commodo odio aenean.  Maecenas semper gravida ex, a congue lacus pulvinar nec. Vivamus accumsan erat tempus augue ornare elementum. Morbi eget elementum sapien. Suspendisse sed nulla vitae nisl condimentum.",
+        "subtitle1": "Vel orci porta maecenas volutpat blandit aliquam etiam. Maecenas accumsan lacus vel facilisis volutp.",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "banner_style": "list",
+        "spec-image": "shopify:\/\/shop_images\/Black.gif",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/solo-trip",
+        "color_scheme": "background-1",
+        "grid-align": "normal",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "grid-image": "shopify:\/\/shop_images\/Group_1739.svg",
+        "custom_class_name": ""
+      }
+    },
+    "0b262ca3-e452-4d53-8c7d-c8cc306a72b7": {
+      "type": "grid-banner",
+      "blocks": {
+        "dadae1a0-8db2-4bdd-953d-5c014811b1bc": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_268946712_2x_5cbb2760-0e82-442a-ae2b-ac7a3c466c78.png",
+            "show_content": true,
+            "block_title": "Forts",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Magna sit amet tincidunt dui ut ornare purus gravida quis blandit.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        },
+        "6644e5c8-a528-47c2-a30c-7b2c46ebd260": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_386434596_2x_9e612851-b201-4626-a117-a4bf3cd389d0.png",
+            "show_content": true,
+            "block_title": "Cities",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        },
+        "1ec18994-9200-41ea-a90d-48494ab80ec1": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_155864_2x_0f78a5c5-d551-49c6-bfc5-8d19933d476a.png",
+            "show_content": true,
+            "block_title": "Desert",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Purus non enim praesent elementum facilisis leo vel fringilla est.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        },
+        "e0a6c16b-485b-4d04-a0c1-cedc67ebb1ee": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_501968777_2x_1e1c0c40-24d4-4243-b161-4b7cccefafac.png",
+            "show_content": true,
+            "block_title": "Beaches",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Et egestas quis ipsum suspendisse ultrices gravida dictum.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        },
+        "a06a9dbe-d801-4587-8a40-05b99dce877f": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/AdobeStock_279238909_2x_dd8e0144-2d26-4c08-9fe3-735ee2c23620.png",
+            "show_content": true,
+            "block_title": "Island",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Cursus euismod mi sit amet quis viverra nibh cras pulvinar mattis.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        }
+      },
+      "block_order": [
+        "dadae1a0-8db2-4bdd-953d-5c014811b1bc",
+        "6644e5c8-a528-47c2-a30c-7b2c46ebd260",
+        "1ec18994-9200-41ea-a90d-48494ab80ec1",
+        "e0a6c16b-485b-4d04-a0c1-cedc67ebb1ee",
+        "a06a9dbe-d801-4587-8a40-05b99dce877f"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "left",
+        "background_style": "none",
+        "banner_style": "overlay",
+        "grid-column": "5",
+        "column_gap": "30",
+        "overlay_height": 500,
+        "overlay_height_laptop": 500,
+        "overlay_height_tab": 500,
+        "overlay_height_mobile": 400,
+        "color_scheme": "accent-1",
+        "padding_top": 60,
+        "padding_bottom": 92,
+        "custom_class_name": "",
+        "swiper_enable": true,
+        "desktop_column": 5,
+        "laptop_column": 4,
+        "tablet_column": 2,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0
+      }
+    },
+    "74570e0e-f5d3-4555-a561-08287611cd9d": {
+      "type": "deal-banner",
+      "blocks": {
+        "2e55be89-dbbf-4308-bcb8-20da6a1abb86": {
+          "type": "search",
+          "settings": {
+            "search_tags": "USA, Newzland, England, Paris"
+          }
+        }
+      },
+      "block_order": [
+        "2e55be89-dbbf-4308-bcb8-20da6a1abb86"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "image": "shopify:\/\/shop_images\/Group_140916_2x_5cd70bd0-ce2d-468b-836c-02391c5926d4.jpg",
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "heading": "Fly To Your Favorite Country",
+        "sub-heading": "",
+        "text": "Ac turpis egestas integer eget scelerisque felis imperdiet proin fermentum. Bibendum neque egestas congue.",
+        "deal_end_date": "",
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_style_secondary_1": false,
+        "button_label_2": "",
+        "button_link_2": "",
+        "button_style_secondary_2": false,
+        "enable_two_column_section": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "deal-before": "shopify:\/\/shop_images\/Group_1754.svg",
+        "deal-after": "shopify:\/\/shop_images\/Group_1752.svg",
+        "custom_class_name": ""
+      }
+    },
+    "47dea4f0-fc98-4a86-845d-9770cac249c1": {
+      "type": "featured-collection",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Pick Your Favourite Packages",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "Eget nunc scelerisque  lacus vestibulum sed. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. ",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "collection": "local-tour",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_new_tag": false,
+        "show_rating": true,
+        "padding_top": 60,
+        "padding_bottom": 120,
+        "custom_class_name": "",
+        "swiper_enable": false,
+        "desktop_column": 3,
+        "laptop_column": 3,
+        "tablet_column": 2,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": false,
+        "arrow_on_mobile": false,
+        "columns_mobile": "1"
+      }
+    },
+    "b74df5d7-be72-4277-9f82-b222503028b2": {
+      "type": "about-specification-block",
+      "blocks": {
+        "template--19437149356351__b74df5d7-be72-4277-9f82-b222503028b2-16873428646a8fc65b-0": {
+          "type": "text",
+          "settings": {
+            "block-image": "shopify:\/\/shop_images\/Group_1857.svg",
+            "title": "Local Tour Guide",
+            "desc": "",
+            "link_text": "",
+            "link": ""
+          }
+        },
+        "template--19437149356351__b74df5d7-be72-4277-9f82-b222503028b2-16873428646a8fc65b-1": {
+          "type": "text",
+          "settings": {
+            "block-image": "shopify:\/\/shop_images\/Group_1859.svg",
+            "title": "Beautiful Places",
+            "desc": "",
+            "link_text": "",
+            "link": ""
+          }
+        },
+        "template--19437149356351__b74df5d7-be72-4277-9f82-b222503028b2-16873428646a8fc65b-2": {
+          "type": "text",
+          "settings": {
+            "block-image": "shopify:\/\/shop_images\/Group_1863.svg",
+            "title": "Perfect Hotels",
+            "desc": "",
+            "link_text": "",
+            "link": ""
+          }
+        },
+        "d494872c-5e3f-4dad-bfdc-05c07743b58f": {
+          "type": "text",
+          "settings": {
+            "block-image": "shopify:\/\/shop_images\/Group_1865.svg",
+            "title": "Resorts & Beaches",
+            "desc": "",
+            "link_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19437149356351__b74df5d7-be72-4277-9f82-b222503028b2-16873428646a8fc65b-0",
+        "template--19437149356351__b74df5d7-be72-4277-9f82-b222503028b2-16873428646a8fc65b-1",
+        "template--19437149356351__b74df5d7-be72-4277-9f82-b222503028b2-16873428646a8fc65b-2",
+        "d494872c-5e3f-4dad-bfdc-05c07743b58f"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "image_clone": "shopify:\/\/shop_images\/Photo.jpg",
+        "color_scheme": "accent-1",
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "Orci sagittis eu volutpat odio facilisis mauris sit amet. Cras tincidunt lobortis feugiat vivamus at augue eget arcu.",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "enable_image": true,
+        "primary_image": "shopify:\/\/shop_images\/Frame_ed5d3c6c-4ba6-4391-b4b1-687d21aa9a01.png",
+        "primary_title": "",
+        "primary_sub_title": "",
+        "primary_description": "",
+        "primary_button_text": "",
+        "primary_button_link": "",
+        "primary_text_align": "center",
+        "vertical_position": "position-vertical-center",
+        "banner_style": "grid",
+        "specification_style": "style3",
+        "overlay_style_height": "960",
+        "primary_position": "center",
+        "content_reverse": false,
+        "title-image": "shopify:\/\/shop_images\/Group_1869_2x_b02f0abb-d539-4a18-8e8a-43a7b74ec44b.png",
+        "additional_heading": "Experience The Travel Happiness With Your Family & Friends.",
+        "additional_sub_heading": "",
+        "des-image": "shopify:\/\/shop_images\/White.gif",
+        "additional_description": "Vitae congue eu consequat ac felis Quisque facilisis in turpis eget laoreet. Curabitur efficitur pellentesque tellus, et dapibus orci. Donec porta ullamcorper convallis. Phasellus vel suscipit risus.",
+        "additional_description_1": "",
+        "additional_text_align": "Left",
+        "additional_link_text": "Shop Now",
+        "additional_link": "shopify:\/\/collections\/international-tour",
+        "padding_top": 60,
+        "padding_bottom": 80,
+        "custom_class_name": "demo6-specification"
+      }
+    },
+    "e0cb69c9-d3d9-4ce9-b165-56e6ffc8de15": {
+      "type": "marquee-section",
+      "blocks": {
+        "4cd0c172-9eb6-4e13-b051-fecc6f45dc50": {
+          "type": "image",
+          "settings": {
+            "block_heading": "",
+            "block_img": "shopify:\/\/shop_images\/Group_1915.png",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "528193cf-8c02-4070-bafc-877dab33b5ca": {
+          "type": "image",
+          "settings": {
+            "block_heading": "",
+            "block_img": "shopify:\/\/shop_images\/Group_1876.png",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "e18e3e1b-79b7-4cb8-b7d3-dac7b2152b1d": {
+          "type": "image",
+          "settings": {
+            "block_heading": "",
+            "block_img": "shopify:\/\/shop_images\/Group_1913.png",
+            "link": ""
+          }
+        },
+        "99e92c43-06b1-47a4-88b2-21925a79a395": {
+          "type": "image",
+          "settings": {
+            "block_heading": "",
+            "block_img": "shopify:\/\/shop_images\/Group_1917.png",
+            "link": ""
+          }
+        },
+        "dfccb9d5-c7e6-40a5-97f4-536c27f82815": {
+          "type": "image",
+          "settings": {
+            "block_heading": "",
+            "block_img": "shopify:\/\/shop_images\/Group_1919.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "4cd0c172-9eb6-4e13-b051-fecc6f45dc50",
+        "528193cf-8c02-4070-bafc-877dab33b5ca",
+        "e18e3e1b-79b7-4cb8-b7d3-dac7b2152b1d",
+        "99e92c43-06b1-47a4-88b2-21925a79a395",
+        "dfccb9d5-c7e6-40a5-97f4-536c27f82815"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "color_scheme": "background-1",
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "left",
+        "speed": "1",
+        "enable_reverse_animation": false,
+        "layout_style": "style_1",
+        "padding_top": 80,
+        "padding_bottom": 48,
+        "custom_class_name": ""
+      }
+    },
+    "56e1b890-997b-48f2-9e68-e30f0118097d": {
+      "type": "specifications",
+      "blocks": {
+        "template--18908489482517__56e1b890-997b-48f2-9e68-e30f0118097d-168474849428a85823-0": {
+          "type": "text",
+          "settings": {
+            "icon": "",
+            "heading": "",
+            "heading_size": "h1",
+            "caption": "",
+            "caption_style": "caption-with-letter-spacing",
+            "caption_size": "medium",
+            "text": "<p>Maecenas venenatis augue dui<\/p>",
+            "text_style": "body",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18908489482517__56e1b890-997b-48f2-9e68-e30f0118097d-168474849428a85823-1": {
+          "type": "text",
+          "settings": {
+            "icon": "",
+            "heading": "",
+            "heading_size": "h1",
+            "caption": "",
+            "caption_style": "caption-with-letter-spacing",
+            "caption_size": "medium",
+            "text": "<p>Orci varius natoque penatibus <\/p>",
+            "text_style": "body",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18908489482517__56e1b890-997b-48f2-9e68-e30f0118097d-168474849428a85823-2": {
+          "type": "text",
+          "settings": {
+            "icon": "fa fa-clock",
+            "heading": "",
+            "heading_size": "h1",
+            "caption": "",
+            "caption_style": "caption-with-letter-spacing",
+            "caption_size": "medium",
+            "text": "<p> Eget eleifend urna fringilla id.<\/p>",
+            "text_style": "body",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1d2f9c0a-a91e-4618-b470-76d2d102c95f": {
+          "type": "text",
+          "settings": {
+            "icon": "",
+            "heading": "",
+            "heading_size": "h1",
+            "caption": "",
+            "caption_style": "caption-with-letter-spacing",
+            "caption_size": "medium",
+            "text": "<p>Pagnis dis parturient montes.<\/p>",
+            "text_style": "body",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e2fcd104-8f90-461c-8d74-ebd997c2c425": {
+          "type": "text",
+          "settings": {
+            "icon": "fa fa-clock",
+            "heading": "",
+            "heading_size": "h2",
+            "caption": "",
+            "caption_style": "caption-with-letter-spacing",
+            "caption_size": "medium",
+            "text": "<p>Pagnis dis parturient montes.<\/p>",
+            "text_style": "body",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0838d79b-8ba2-4ebc-8e9f-a8e9192d2e4a": {
+          "type": "text",
+          "settings": {
+            "icon": "fa fa-clock",
+            "heading": "",
+            "heading_size": "h2",
+            "caption": "",
+            "caption_style": "caption-with-letter-spacing",
+            "caption_size": "medium",
+            "text": "<p>Pagnis dis parturient montes.<\/p>",
+            "text_style": "body",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18908489482517__56e1b890-997b-48f2-9e68-e30f0118097d-168474849428a85823-0",
+        "template--18908489482517__56e1b890-997b-48f2-9e68-e30f0118097d-168474849428a85823-1",
+        "template--18908489482517__56e1b890-997b-48f2-9e68-e30f0118097d-168474849428a85823-2",
+        "1d2f9c0a-a91e-4618-b470-76d2d102c95f",
+        "e2fcd104-8f90-461c-8d74-ebd997c2c425",
+        "0838d79b-8ba2-4ebc-8e9f-a8e9192d2e4a"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "title": "",
+        "heading_size": "h4",
+        "subtitle": "",
+        "text_style": "caption-with-letter-spacing",
+        "text_size": "medium",
+        "title_image": "shopify:\/\/shop_images\/Group_140839.png",
+        "text": "",
+        "image": "shopify:\/\/shop_images\/Group_140915_2x_f82b2679-ff89-4f94-a555-5137be4292f9.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 135,
+        "custom_class_name": "",
+        "heading": "Plan the perfect vacation of your dreams with us",
+        "sub-heading": "",
+        "sub-description": "Felis eget nunc lobortis mattis aliquam A Congue Lacus Pulvinar Nec. Vivamus Accumsan Erat Tempus Augue Ornare Elementum. Morbi Eget Elementum Sapien. Suspendisse Sed Nulla Vitae Nisl Condimentum.",
+        "bottom_block_heading": "",
+        "image1": "shopify:\/\/shop_images\/Group_140822.svg",
+        "image2": "shopify:\/\/shop_images\/Group_140826.svg",
+        "bottom_button_label": "shop now",
+        "bottom_button_link": "shopify:\/\/collections\/corporate-tour",
+        "main-bg": "shopify:\/\/shop_images\/Group_140828.svg",
+        "add-bg": "shopify:\/\/shop_images\/Group_140831.svg"
+      }
+    },
+    "7d7c9e97-758b-44e0-a091-204f56c39884": {
+      "type": "number-counter",
+      "blocks": {
+        "f93ec7ff-578b-4317-9c9b-10d74161c376": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140837.png",
+            "num-image": "shopify:\/\/shop_images\/Path_185671.svg",
+            "title": "Vacation Package",
+            "text": "",
+            "value": "100",
+            "value_text": "+",
+            "column_alignment": "center"
+          }
+        },
+        "71e11430-8e00-4fb9-9717-09a2113a10fc": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140843.png",
+            "num-image": "shopify:\/\/shop_images\/Path_185671.svg",
+            "title": "Adventure Activities",
+            "text": "",
+            "value": "100",
+            "value_text": "+",
+            "column_alignment": "center"
+          }
+        },
+        "5cca0d92-62fd-4616-8a7e-3500e9a86e31": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140841.png",
+            "num-image": "shopify:\/\/shop_images\/Path_185671.svg",
+            "title": "Tourist Guides",
+            "text": "",
+            "value": "50",
+            "value_text": "+",
+            "column_alignment": "center"
+          }
+        },
+        "1ccedb3e-dd8c-4ec1-9034-36e3fc2f4408": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140839.png",
+            "num-image": "shopify:\/\/shop_images\/Path_185671.svg",
+            "title": "Worldwide Branches",
+            "text": "",
+            "value": "1080",
+            "value_text": "",
+            "column_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "f93ec7ff-578b-4317-9c9b-10d74161c376",
+        "71e11430-8e00-4fb9-9717-09a2113a10fc",
+        "5cca0d92-62fd-4616-8a7e-3500e9a86e31",
+        "1ccedb3e-dd8c-4ec1-9034-36e3fc2f4408"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "title": "Take Pleasure In A Budget-Friendly Trip",
+        "heading_size": "h2",
+        "sub_heading": "",
+        "description": "At lectus urna duis convallis convallis tellus id interdum.efficitur accumsan. Integer sodales tristique nulla, vel pulvinar felis posuere at. Donec viverra nisl vitae sapien tincidunt vehicula. Nam iaculis orci ac erat mattis, sit amet blandit velit posuere. Phasellus rhoncus purus nec erat posuere tempus. Donec vel neque lacinia, posuere metus sit amet, tempor orci. Mauris elementum lobortis odio eu ornare.",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/local-tour",
+        "button_style_secondary": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "column_alignment": "center",
+        "columns_desktop": 4,
+        "color_scheme": "none",
+        "bg-move": true,
+        "home-image": "shopify:\/\/shop_images\/Big_World.jpg",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "bottom-image": "shopify:\/\/shop_images\/Group_140915_2x_c6d43b92-ca74-48b3-8b95-94d8e49b82ce.png",
+        "left_image": "shopify:\/\/shop_images\/AdobeStock_562056707.png",
+        "custom_class_name": ""
+      }
+    },
+    "357d4897-6aeb-4ad2-93d5-2ba5c38e5d94": {
+      "type": "featured-blog",
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "title": "RECENT BLOGS",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Sit amet mattis vulputate enim nulla aliquet porttitor. ",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "blog": "news",
+        "post_limit": 4,
+        "columns_desktop": 2,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpts": true,
+        "enable_comments": false,
+        "show_view_all": false,
+        "block_banner_style": "list-style",
+        "content_width": "50\/50",
+        "lap_content_width": "40\/60",
+        "overlay_style_height": 400,
+        "overlay_opacity": "0.5",
+        "padding_top": 130,
+        "padding_bottom": 130,
+        "custom_class_name": "",
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "laptop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": false,
+        "arrow_on_mobile": false,
+        "columns_mobile": "1"
+      }
+    },
+    "4eb89332-3edb-4f33-a6af-f3a8990cea6d": {
+      "type": "support-block",
+      "blocks": {
+        "template--19784560542012__4eb89332-3edb-4f33-a6af-f3a8990cea6d-168852958534e3d637-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140862_d9600540-6f50-4990-aa75-180556530230.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "Resorts",
+            "text": "<p>Orci a scelerisque purus<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19784560542012__4eb89332-3edb-4f33-a6af-f3a8990cea6d-168852958534e3d637-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140866.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "SKY ADVENTURES",
+            "text": "<p>Molestie a iaculis at erat<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19784560542012__4eb89332-3edb-4f33-a6af-f3a8990cea6d-168852958534e3d637-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140872.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "HONEYMOON TRIP",
+            "text": "<p>Sit amet consectetur adipiscing<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "46dc30ad-6b11-42ac-ab28-4ae1fa123310": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140864.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "SURF SPORTS",
+            "text": "<p>Fermentum iaculis eu non diam<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ac899a4a-a067-4e7d-b538-f7754f6b0445": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140869.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "CAMPING & TREKKING",
+            "text": "<p>Proin libero nunc consequat<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "20cd3039-cfea-4cd1-a98e-89053d020f9a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140871.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "CARAVAN JOURNEY",
+            "text": "<p>Pulvinar neque laoreet<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ecec9ba3-45ab-4f4c-a6a8-36e0619cdc9f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140861.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "BEST RESTAURANTS",
+            "text": "<p>Sed tempus urna et pharetra<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5ae5f6be-227e-4be9-9356-76cc734ba363": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140875.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "CRUISE TRIP",
+            "text": "<p>Risus ultricies tristique nulla<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9cf03d10-fb41-4c46-b98f-d3ce5fae62cc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_140877.png",
+            "icon_class": "",
+            "block_color_scheme": "background-1",
+            "title": "AWESOME HOTELS",
+            "text": "<p>Semper eget duis at tellus<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19784560542012__4eb89332-3edb-4f33-a6af-f3a8990cea6d-168852958534e3d637-0",
+        "template--19784560542012__4eb89332-3edb-4f33-a6af-f3a8990cea6d-168852958534e3d637-1",
+        "template--19784560542012__4eb89332-3edb-4f33-a6af-f3a8990cea6d-168852958534e3d637-2",
+        "46dc30ad-6b11-42ac-ab28-4ae1fa123310",
+        "ac899a4a-a067-4e7d-b538-f7754f6b0445",
+        "20cd3039-cfea-4cd1-a98e-89053d020f9a",
+        "ecec9ba3-45ab-4f4c-a6a8-36e0619cdc9f",
+        "5ae5f6be-227e-4be9-9356-76cc734ba363",
+        "9cf03d10-fb41-4c46-b98f-d3ce5fae62cc"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "What Kind Of Services We Offer",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "Ut ornare lectus ac auctor augue mauris augue neque gravida in fermentumleo vel fringilla est ullamcorper eget nulla facilisi etiam.",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "background_style": "none",
+        "color_scheme": "background-2",
+        "block_style": "list__item",
+        "block_column_alignment": "left",
+        "icon_outer_size": "60",
+        "icon_size": "60",
+        "image_radius": "",
+        "block_color_scheme": "none",
+        "vertical_position": "veritcal_center",
+        "padding_top": 100,
+        "padding_bottom": 120,
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "laptop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": true,
+        "arrow_on_mobile": true,
+        "columns_mobile": "1",
+        "custom_class_name": ""
+      }
+    },
+    "65e76dce-e754-48ff-bec2-b801a0e838c2": {
+      "type": "testimonials-style-8",
+      "blocks": {
+        "template--19017815785750__65e76dce-e754-48ff-bec2-b801a0e838c2-16845569039291a0d5-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AdobeStock_5423879151.png",
+            "author": "Angel",
+            "job_title": "Devleoper",
+            "title": "What Our People Are Saying",
+            "quote": "Faucibus turpis in eu mi. Nibh cras pulvinar mattis nunc sed blandit libero volutpat. In tellus integer feugiat scelerisque. Orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero. Quam vulputate dignissim suspendisse in est ante in.",
+            "star": "4.5",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19017815785750__65e76dce-e754-48ff-bec2-b801a0e838c2-16845569039291a0d5-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AdobeStock_542387915_2.png",
+            "author": "Morgel",
+            "job_title": "Engineer",
+            "title": "What Our People Are Saying",
+            "quote": "Nisl suscipit adipiscing bibendum est ultricies. Consectetur a erat nam at lectus urna duis convallis. Diam in arcu cursus euismod quis viverra nibh. Consequat interdum varius sit amet mattis. Lobortis scelerisque fermentum dui faucibus. Volutpat est velit egestas dui id. Habitant morbi tristique senectus et netus.",
+            "star": "4",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19017815785750__65e76dce-e754-48ff-bec2-b801a0e838c2-16845569039291a0d5-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AdobeStock_5423879152.png",
+            "author": "William",
+            "job_title": "Architect",
+            "title": "What Our People Are Saying",
+            "quote": "Metus aliquam eleifend mi in nulla posuere sollicitudin. Pellentesque habitant morbi tristique senectus et netus et. Sit amet nisl purus in mollis nunc sed. Lacinia quis vel eros donec ac odio. Arcu felis bibendum ut tristique et. Condimentum mattis pellentesque id nibh tortor id aliquet.",
+            "star": "4.5",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19017815785750__65e76dce-e754-48ff-bec2-b801a0e838c2-16845569039291a0d5-0",
+        "template--19017815785750__65e76dce-e754-48ff-bec2-b801a0e838c2-16845569039291a0d5-1",
+        "template--19017815785750__65e76dce-e754-48ff-bec2-b801a0e838c2-16845569039291a0d5-2"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "image": "shopify:\/\/shop_images\/Background_2x_9fe1d08a-335d-4429-9e0d-7385de3639d6.png",
+        "block_image": "shopify:\/\/shop_images\/Layer_1.png",
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "REVIEWS",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "padding_top": 28,
+        "padding_bottom": 40,
+        "test-bg": "shopify:\/\/shop_images\/Path_186368.svg",
+        "custom_class_name": ""
+      }
+    }
+  },
+  "order": [
+    "66e712ec-c5e7-4075-805e-5549df0e4b21",
+    "c9b412b9-52fa-4d13-9879-017ddeca5697",
+    "0b262ca3-e452-4d53-8c7d-c8cc306a72b7",
+    "74570e0e-f5d3-4555-a561-08287611cd9d",
+    "47dea4f0-fc98-4a86-845d-9770cac249c1",
+    "b74df5d7-be72-4277-9f82-b222503028b2",
+    "e0cb69c9-d3d9-4ce9-b165-56e6ffc8de15",
+    "56e1b890-997b-48f2-9e68-e30f0118097d",
+    "7d7c9e97-758b-44e0-a091-204f56c39884",
+    "357d4897-6aeb-4ad2-93d5-2ba5c38e5d94",
+    "4eb89332-3edb-4f33-a6af-f3a8990cea6d",
+    "65e76dce-e754-48ff-bec2-b801a0e838c2"
+  ]
+}

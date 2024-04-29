@@ -1,0 +1,50 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "custom_class_name": "",
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "adapt",
+        "post_limit": 4,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpts": true,
+        "enable_comments": true,
+        "show_articles": true,
+        "side_show_excerpts": false,
+        "article_title": "Recent Articles",
+        "limit": 3,
+        "show_tags": true,
+        "tags_title": "Tags",
+        "show_carousel": true,
+        "carousel_title": "New Arrivals",
+        "carousel": "local-tour",
+        "carousel_limit": 2,
+        "enable_quick_add": true,
+        "sidebar_settings": "sidebar-right",
+        "show_social": true,
+        "show_promo": false,
+        "sidebar_image": "shopify:\/\/shop_images\/shop-3_6c2ef0ff-c8d3-4cf7-b0a2-9c3b2be18e02.jpg",
+        "sidebar_title": "Hot Deals",
+        "sidebar_link_text": "Shop Now",
+        "sidebar_link": "shopify:\/\/products\/hills-climbing",
+        "show_menu": true,
+        "menu_title": "Category",
+        "linklist": "category",
+        "show_collection": true,
+        "collection_title": "Best Sellings",
+        "collection": "corporate-tour",
+        "collection_limit": 2,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

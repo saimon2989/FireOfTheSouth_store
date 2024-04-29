@@ -1,0 +1,401 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ad7e7a7c-f31e-4b98-88f8-0875330f1a56": {
+      "type": "grid-banner",
+      "blocks": {
+        "f307ca73-12f1-4c4e-9319-216750cedf92": {
+          "type": "text",
+          "settings": {
+            "show_content": true,
+            "block_title": "Widelife Tourism",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Molestie nunc non blandit massa enim. Nunc pulvinar sapien et tincidunt praesent semper feugiat nibh ligula.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        },
+        "568f6ffc-da16-4d1c-b775-4bf2c3c52a84": {
+          "type": "text",
+          "settings": {
+            "show_content": true,
+            "block_title": "Adventure Trip",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Accumsan in nisl nisi scelerisque eu ultrices vitae auctor  condimentum mattis eget magna fermentum iaculis.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        },
+        "7f5d2510-d7d1-4968-98da-d2796ff5767c": {
+          "type": "text",
+          "settings": {
+            "show_content": true,
+            "block_title": "Solo Trip",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Ullamcorper morbi tincidunt ornare massa eget egestas purus. Fusce id velit ut tortor pretium viverra.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        },
+        "9c0dbe66-320b-46fe-8e4f-831211d8e414": {
+          "type": "text",
+          "settings": {
+            "show_content": true,
+            "block_title": "Family Trip",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Ut diam quam nulla porttitor massa id neque.",
+            "block_descriptioned": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center",
+            "reverse_column": false
+          }
+        }
+      },
+      "block_order": [
+        "f307ca73-12f1-4c4e-9319-216750cedf92",
+        "568f6ffc-da16-4d1c-b775-4bf2c3c52a84",
+        "7f5d2510-d7d1-4968-98da-d2796ff5767c",
+        "9c0dbe66-320b-46fe-8e4f-831211d8e414"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "banner_style": "grid",
+        "grid-column": "2",
+        "column_gap": "",
+        "overlay_height": 400,
+        "overlay_height_laptop": 300,
+        "overlay_height_tab": 300,
+        "overlay_height_mobile": 200,
+        "color_scheme": "background-1",
+        "padding_top": 120,
+        "padding_bottom": 60,
+        "custom_class_name": "abts-grid",
+        "swiper_enable": true,
+        "desktop_column": 4,
+        "laptop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0
+      }
+    },
+    "fd51b3aa-dd93-4f50-8de9-cb2f869f3be1": {
+      "type": "grid-banner",
+      "blocks": {
+        "cc8a51b2-53bc-4921-a96a-4bff143f5676": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/abo-1.jpg",
+            "show_content": true,
+            "block_title": "Explore Nature",
+            "enable_title_link": false,
+            "block_sub_title": "",
+            "block_description": "Nulla posuere sollicitudin amollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Aenean lacinia. Donec ullamcorper nulla non metus auctor fringilla.",
+            "block_descriptioned": "Tristique sollicitudin nibhullam corper dignissim cras tincidunt lobortis feugiat. Sociis natoque penatibus et magnis dis parturient montes nascetur. Laoreet suspendisse interdum consectetur libero. Enim facilisis gravida neque convallis a nunc pulvinar sapien et ligula ullamcorper cras.",
+            "block_button_text": "Shop Now",
+            "block_button_link": "shopify:\/\/collections\/family-tour",
+            "desktop_content_alignment": "left",
+            "reverse_column": false
+          }
+        }
+      },
+      "block_order": [
+        "cc8a51b2-53bc-4921-a96a-4bff143f5676"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "banner_style": "list",
+        "grid-column": "1",
+        "column_gap": "",
+        "overlay_height": 400,
+        "overlay_height_laptop": 300,
+        "overlay_height_tab": 300,
+        "overlay_height_mobile": 200,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "custom_class_name": "list-grid",
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "laptop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0
+      }
+    },
+    "cb3c7651-facb-4fbe-aabb-fa2416022cfd": {
+      "type": "support-block2",
+      "blocks": {
+        "template--19784560607548__cb3c7651-facb-4fbe-aabb-fa2416022cfd-1688702625bd832fe4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ab1.jpg",
+            "icon_class": "",
+            "title": "EGYPT",
+            "text": "<p>Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19784560607548__cb3c7651-facb-4fbe-aabb-fa2416022cfd-1688702625bd832fe4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ab4.jpg",
+            "icon_class": "",
+            "title": "ITALY",
+            "text": "<p>Viverra maecenas accumsan lacus vel facilisis volutpat est vel.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19784560607548__cb3c7651-facb-4fbe-aabb-fa2416022cfd-1688702625bd832fe4-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ab2.jpg",
+            "icon_class": "",
+            "title": "GREENLAND",
+            "text": "<p>Diam vel quam elementum pulvinar etiam non quam.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dae744c0-79a4-46c3-b376-186f34a540a0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ab5.jpg",
+            "icon_class": "",
+            "title": "THAILAND",
+            "text": "<p>Gravida neque convallis a cras semper auctor neque vitae.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "608e0432-36ab-462c-9601-f5ed5b60cdc6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ab3.jpg",
+            "icon_class": "",
+            "title": "CANADA",
+            "text": "<p>Consequat mauris nunc congue nisi vitae suscipit tellus mauris a.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19784560607548__cb3c7651-facb-4fbe-aabb-fa2416022cfd-1688702625bd832fe4-0",
+        "template--19784560607548__cb3c7651-facb-4fbe-aabb-fa2416022cfd-1688702625bd832fe4-1",
+        "template--19784560607548__cb3c7651-facb-4fbe-aabb-fa2416022cfd-1688702625bd832fe4-2",
+        "dae744c0-79a4-46c3-b376-186f34a540a0",
+        "608e0432-36ab-462c-9601-f5ed5b60cdc6"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Discover Where You're Going",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "background_style": "none",
+        "color_scheme": "background-1",
+        "block_style": "grid__item",
+        "block_column_alignment": "left",
+        "block_min_height": "250",
+        "icon_outer_size": "120",
+        "icon_size": "100",
+        "image_radius": "",
+        "block_color_scheme": "background-1",
+        "vertical_position": "veritcal_center",
+        "padding_top": 112,
+        "padding_bottom": 20,
+        "swiper_enable": true,
+        "desktop_column": 5,
+        "laptop_column": 3,
+        "tablet_column": 2,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": false,
+        "arrow_on_mobile": false,
+        "columns_mobile": "1",
+        "custom_class_name": "support-style-2"
+      }
+    },
+    "1de79ba0-a585-48ac-9b58-7a42374aa380": {
+      "type": "video-pop-up",
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "heading": "",
+        "sub_heading": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "heading_size": "h4",
+        "content_style": "overlay",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "self_video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/fa6812c96dbe4b068a671c44d52ad43e.mp4",
+        "full_width": false,
+        "custom_class_name": "custom-video-section",
+        "video_format": "video",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f36a450b-99a6-4a91-93bb-e6a675b81ac0": {
+      "type": "inner-page-team-section",
+      "blocks": {
+        "213d7770-b35f-4a34-93d2-8999f091c946": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/team-4.jpg",
+            "show_content": true,
+            "block_title": "Briony",
+            "block_sub_title": "",
+            "block_description": "Travel Guide",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "eaf0ab24-9fa1-4c78-bcb8-db5f3d2bd73a": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/team-3.jpg",
+            "show_content": true,
+            "block_title": "Eduard",
+            "block_sub_title": "",
+            "block_description": "Travel Agent",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "bba59d83-bac2-42c5-8272-211320a7cf8d": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/team-2.jpg",
+            "show_content": true,
+            "block_title": "Jessica",
+            "block_sub_title": "",
+            "block_description": "CEO",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "0a718cf1-80a5-401e-a99e-2f9e3ab4e247": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/team-1.jpg",
+            "show_content": true,
+            "block_title": "Elizabeth",
+            "block_sub_title": "",
+            "block_description": "Manager",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "213d7770-b35f-4a34-93d2-8999f091c946",
+        "eaf0ab24-9fa1-4c78-bcb8-db5f3d2bd73a",
+        "bba59d83-bac2-42c5-8272-211320a7cf8d",
+        "0a718cf1-80a5-401e-a99e-2f9e3ab4e247"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Meet Our Team",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "team-section": "4",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "custom_class_name": "",
+        "swiper_enable": true,
+        "desktop_column": 4,
+        "laptop_column": 3,
+        "tablet_column": 2,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ad7e7a7c-f31e-4b98-88f8-0875330f1a56",
+    "fd51b3aa-dd93-4f50-8de9-cb2f869f3be1",
+    "cb3c7651-facb-4fbe-aabb-fa2416022cfd",
+    "1de79ba0-a585-48ac-9b58-7a42374aa380",
+    "f36a450b-99a6-4a91-93bb-e6a675b81ac0"
+  ]
+}

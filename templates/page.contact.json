@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "65c6702b-7c48-4db2-8e38-5a63a7ec5540": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19784560640316__65c6702b-7c48-4db2-8e38-5a63a7ec5540-1688630516e6853949-0": {
+          "type": "column",
+          "settings": {
+            "title": "Address",
+            "enable_title_link": false,
+            "text": "<p>No: 58 A, East Madison Street, Baltimore, MD, USA 4508<\/p>",
+            "link_label": "",
+            "link": "",
+            "icon_class": false
+          }
+        },
+        "template--19784560640316__65c6702b-7c48-4db2-8e38-5a63a7ec5540-1688630516e6853949-1": {
+          "type": "column",
+          "settings": {
+            "title": "Call Us",
+            "enable_title_link": false,
+            "text": "<p><a href=\"tel:000 - 123 - 456789\" title=\"tel:000 - 123 - 456789\">000 - 123 - 456789<\/a><\/p><p><a href=\"tel:1010 - 123 - 456789\" title=\"tel:1010 - 123 - 456789\">101 - 123 - 456789<\/a><\/p>",
+            "link_label": "",
+            "link": "",
+            "icon_class": false
+          }
+        },
+        "template--19784560640316__65c6702b-7c48-4db2-8e38-5a63a7ec5540-1688630516e6853949-2": {
+          "type": "column",
+          "settings": {
+            "title": "Mail Id",
+            "enable_title_link": false,
+            "text": "<p><a href=\"tel:contact@example.com\" title=\"tel:contact@example.com\">contact@example.com<\/a><\/p><p><a href=\"tel:info@example.com\" title=\"tel:info@example.com\">info@example.com<\/a><\/p>",
+            "link_label": "",
+            "link": "",
+            "icon_class": false
+          }
+        },
+        "2cf1f02a-03d0-4c6b-82ca-d474b3f9a025": {
+          "type": "column",
+          "settings": {
+            "title": "Working Hours",
+            "enable_title_link": false,
+            "text": "<p>Monday - Saturday : 08:00 - 22:00<\/p><p>Sunday - Holiday<\/p>",
+            "link_label": "",
+            "link": "",
+            "icon_class": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19784560640316__65c6702b-7c48-4db2-8e38-5a63a7ec5540-1688630516e6853949-0",
+        "template--19784560640316__65c6702b-7c48-4db2-8e38-5a63a7ec5540-1688630516e6853949-1",
+        "template--19784560640316__65c6702b-7c48-4db2-8e38-5a63a7ec5540-1688630516e6853949-2",
+        "2cf1f02a-03d0-4c6b-82ca-d474b3f9a025"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "background-2",
+        "enable_overlay": false,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "custom_class_name": "mc-contact",
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "laptop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": false,
+        "arrow_on_mobile": false,
+        "columns_mobile": "1"
+      }
+    },
+    "0b8c12a8-0a65-4c8c-b88c-2a212202886f": {
+      "type": "form-image",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "heading": "Contact Form",
+        "heading_size": "h1",
+        "description": "Maecenas ultricies mi eget rhoncus placerat, orci enim egestas eros, volutpat scelerisque ipsum eros a nulla. Suspendisse a facilisis dolor.",
+        "color_scheme": "background-1",
+        "map_iframe_code": "<iframe src=\"https:\/\/snazzymaps.com\/embed\/493545\" width=\"100%\" height=\"680px\" style=\"border:none;\"><\/iframe>",
+        "padding_top": 130,
+        "padding_bottom": 36,
+        "custom_class_name": ""
+      }
+    },
+    "f5df9a2e-661e-428d-aca4-e419f4dc1848": {
+      "type": "contact-section",
+      "blocks": {
+        "d271d68c-21f5-4513-9156-a66c00720b11": {
+          "type": "column",
+          "settings": {
+            "contact-heading_address": "",
+            "contact_address": "No: 58 A, East Madison Street, Baltimore, MD , USA 4508",
+            "contact_mail": "info@example.com",
+            "contact_phone_no": "000 - 123 - 456789",
+            "link_label": "",
+            "link": "",
+            "block_color_scheme": "background-2",
+            "bg-opacity": "1"
+          }
+        },
+        "a0bcf1d2-bc17-463d-9354-aed9ef6d8c11": {
+          "type": "column",
+          "settings": {
+            "contact-heading_address": "",
+            "contact_address": "78 Pine Road, P.O. Box 321, Seattle, WA 901",
+            "contact_mail": "contact@example.com",
+            "contact_phone_no": "00 - 123456789",
+            "link_label": "",
+            "link": "",
+            "block_color_scheme": "background-2",
+            "bg-opacity": "1"
+          }
+        },
+        "930100c1-4718-4200-83ce-60756c7c8b45": {
+          "type": "column",
+          "settings": {
+            "contact-heading_address": "",
+            "contact_address": "456 AL Avenue, Suite 100, Denver, CO 800",
+            "contact_mail": "support@example.com",
+            "contact_phone_no": "(010) - 123456789",
+            "link_label": "",
+            "link": "",
+            "block_color_scheme": "background-2",
+            "bg-opacity": "1"
+          }
+        }
+      },
+      "block_order": [
+        "d271d68c-21f5-4513-9156-a66c00720b11",
+        "a0bcf1d2-bc17-463d-9354-aed9ef6d8c11",
+        "930100c1-4718-4200-83ce-60756c7c8b45"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Our Office Locations",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "Quis lectus nulla at volutpat diam ut venenatis tellus. egestas quis amet, consecte adipiscing elit. Etiam lorem lectus Pellentesque lacinia sollicitudin luctus Phas pretium porta odio a porta. Cras fringilla iaculis tellus, sit amet",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "padding_top": 72,
+        "padding_bottom": 32,
+        "custom_class_name": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "65c6702b-7c48-4db2-8e38-5a63a7ec5540",
+    "0b8c12a8-0a65-4c8c-b88c-2a212202886f",
+    "f5df9a2e-661e-428d-aca4-e419f4dc1848"
+  ]
+}

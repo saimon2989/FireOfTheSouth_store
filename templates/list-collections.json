@@ -1,0 +1,23 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "",
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "sort": "alphabetical",
+        "collection_layout": "grid",
+        "collection_button_label": "View ALL",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "columns_mobile": "1",
+        "padding_top": 60,
+        "padding_bottom": 56
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
