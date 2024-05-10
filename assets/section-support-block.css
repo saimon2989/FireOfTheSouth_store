@@ -1,5 +1,6 @@
 .support-block .title {
   margin: 0;
+  color: #ECE7D7;
 }
 
 .support-block.no-heading .title {
@@ -263,6 +264,10 @@ color: var(--gradient-base-accent-1);
 .support-block-list__item.list__item .support-block-card:after{content:'';position:absolute;width:0;height:100%;background:rgb(var(--color-base-accent-2),0.09);right:100%;transition:all 0.5s linear;z-index:1;top:0}
 .support-block-list__item.list__item .support-block-card:hover:after{width:100%;right:0;top:0}
 .support-block .description{max-width:48%}
+/* Color para el bloque support block */
+.description-2{
+  color: #ECE7D7 !important;
+}
 @media(max-width:1440px){
 .support-block .description{max-width:60%}
 }

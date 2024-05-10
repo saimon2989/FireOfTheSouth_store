@@ -1121,7 +1121,7 @@
                       </li>
                       {%- endfor -%}
                       </ul>
-                        <p class="payment-safe">Guarantee safe & secure checkout</p>
+                        <p class="payment-safe" style="Display: none">Guarantee safe & secure checkout</p>
                       </div>
                     <a href="{{ product.url }}" class="link product__view-details animate-arrow">
                     {{ 'products.product.view_full_details' | t }}
@@ -1129,7 +1129,7 @@
                     </a>
                   
                    {%- if section.settings.enable_enquiry -%}
-                    <div class="text-center dt-sc-enquiry-form">
+                    <div class="text-center dt-sc-enquiry-form" style="Display: none">
                         <svg height="20px" width="20px" viewBox="0 0 439.57422 439" xmlns="http://www.w3.org/2000/svg">
                         <path d="m428.882812 376.707031-67.875-67.867187c-2.589843-2.597656-6.03125-4.027344-9.695312-4.027344 0 0-.003906 0-.007812 0-3.664063 0-7.109376 1.429688-9.699219 4.019531l-9.695313 9.695313-19.710937-19.714844c18.492187-21.519531 28.660156-48.589844 28.660156-77.265625 0-31.742187-12.359375-61.589844-34.808594-84.035156-6.878906-6.875-14.511719-12.679688-22.617187-17.597657v-92.199218c0-15.125-12.304688-27.425782-27.429688-27.425782h-168.398437l-2.671875 2.710938c-.003906.003906-.011719.007812-.015625.011719l-82.289063 83.527343-2.394531 2.476563-.23046875.234375v.007812l-.00390625.003907v25.980469l.00390625-.003907v296.476563c0 15.125 12.30468775 27.429687 27.42968775 27.429687h228.570312c15.125 0 27.429688-12.304687 27.429688-27.429687v-88.527344c5.542968-3.363281 10.84375-7.15625 15.835937-11.445312l19.710938 19.714843-9.695313 9.695313c-5.347656 5.347656-5.347656 14.046875 0 19.394531l67.878906 67.882813c6.90625 6.910156 16.089844 10.714843 25.863282 10.714843 9.765625 0 18.949218-3.804687 25.855468-10.714843 14.253907-14.257813 14.253907-37.464844 0-51.722657zm-106.308593-155.160156c0 26.867187-10.457031 52.125-29.453125 71.113281-18.996094 19.003906-44.25 29.457032-71.117188 29.457032-26.863281 0-52.117187-10.453126-71.109375-29.457032-18.996093-18.988281-29.460937-44.246094-29.460937-71.113281 0-26.859375 10.464844-52.117187 29.460937-71.105469 18.992188-19 44.246094-29.457031 71.109375-29.457031 26.867188 0 52.121094 10.457031 71.117188 29.457031 18.996094 18.988282 29.453125 44.246094 29.453125 71.105469zm-244.058594-185.78125c.820313-.835937 1.582031-1.605469 2.390625-2.425781.464844-.472656.921875-.9375 1.382812-1.40625v42.738281c0 5.042969-4.101562 9.140625-9.144531 9.140625h-42.046875c14.828125-15 32.164063-32.566406 47.417969-48.046875zm186.628906 375.949219c0 5.046875-4.101562 9.144531-9.140625 9.144531h-228.570312c-5.039063 0-9.144532-4.097656-9.144532-9.144531v-309.613282h54.855469c15.128907 0 27.429688-12.304687 27.429688-27.429687v-56.097656h155.429687c5.039063 0 9.140625 4.097656 9.140625 9.140625v83.125c-13.578125-5.289063-28.128906-8.140625-43.140625-8.140625-31.746094 0-61.59375 12.363281-84.039062 34.8125-22.453125 22.445312-34.816406 52.292969-34.816406 84.035156 0 31.75 12.363281 61.597656 34.816406 84.042969 22.445312 22.445312 52.292968 34.8125 84.039062 34.8125 15.011719 0 29.5625-2.855469 43.140625-8.140625zm150.8125 3.785156c-6.917969 6.921875-18.957031 6.902344-25.863281 0l-64.648438-64.652344 25.859376-25.855468 64.652343 64.644531c7.125 7.132812 7.125 18.730469 0 25.863281zm0 0"></path>
                         <path d="m45.714844 137.429688h18.285156v18.285156h-18.285156zm0 0"></path>
@@ -1308,30 +1308,11 @@
           </div>
         </product-modal>
       </div>
-
-      {% if section.settings['tab_position'] == 'bottom' %}
-      {% if section.settings['tab_style'] == 'toggle' %}
-      {%- for block in section.blocks -%}
+{% comment %} New tab component {% endcomment %}
+{% if section.settings['tab_position'] == 'bottom' %}
+  {% if section.settings['tab_style'] == 'toggle' %}
+    {%- for block in section.blocks -%}
       {%- case block.type -%}
-        {%- when 'description' -%}
-            <div class="product__accordion accordion" {{ block.shopify_attributes }}>
-              <details class="dt-details">
-                <summary>
-                  <div class="summary__title 1">
-                    {% render 'icon-accordion', icon: 'check_mark' %}
-                    <h6 class="accordion__title">
-                      {{ 'products.product.description' | t }}
-                    </h6>
-                  </div>
-                  {% render 'icon-caret' %}
-                </summary>
-                <div class="accordion__content rte">
-                  {%- if product.description != blank -%}
-                    {{ product.description }}
-                  {%- endif -%}
-                </div>
-              </details>
-            </div>
         {%- when 'collapsible_tab' -%}
             <div class="product__accordion accordion" {{ block.shopify_attributes }}>
               <details class="dt-details">
@@ -1350,99 +1331,37 @@
                 </div>
               </details>
             </div>
-      {%- endcase -%}
+    {%- endcase -%}
+    {%- endfor -%}
+  {% endif %}
+  {% if section.settings['tab_style'] == 'tab' %}
+    <div class="product__info-as-bottom-tabs">
+      <div class="product__info-bottom tabs" {{ block.shopify_attributes }}>
+        {%- for block in section.blocks -%}
+          {%- case block.type -%}
+            {%- when 'collapsible_tab' -%}
+              <div class="summary__title tablinks" onclick="openTab(event, '{{ block.settings.heading | handle }}')" data-id="{{ block.settings.heading | handle }}">
+                <h6 class="accordion__title">
+                  {{ block.settings.heading | default: block.settings.page.title }}
+                </h6>
+              </div>
+          {%- endcase -%}
+        {%- endfor -%}
+      </div>
+      {%- for block in section.blocks -%}
+        {%- case block.type -%}
+          {%- when 'collapsible_tab' -%}
+            <div class="dt-sc-tabs-content rte" id="{{ block.settings.heading | handle }}">
+              {{ block.settings.content }}
+              {{ block.settings.page.content }}
+            </div>
+        {%- endcase -%}
       {%- endfor -%}
-        {%- if section.settings.show_review_tab -%}
-        <div class="product__accordion accordion" {{ block.shopify_attributes }}>
-          <details class="dt-details">
-            <summary>
-              <div class="summary__title 3">
-                {% render 'icon-accordion', icon: 'check_mark' %}
-                <h6 class="accordion__title">
-                 {{ 'products.product.reviews' | t }}
-                </h6>
-              </div>
-              {% render 'icon-caret' %}
-            </summary>
-            <div class="accordion__content rte">                                 
-                {{ section.settings.rating_script }}                                 
-            </div>
-          </details>
-        </div>
-        {%- endif -%}
-      {% endif %}
-      {% if section.settings['tab_style'] == 'tab' %}
-        <div class="product__info-as-bottom-tabs">
-          <div class="product__info-bottom tabs" {{ block.shopify_attributes }}>
-            {%- if product.description != blank -%}
-              <div class="summary__title tablinks" onclick="openTab(event, 'tab-description')" data-id="tab-description">
-                <h6 class="accordion__title">
-                  {{ 'products.product.description' | t }}
-                </h6>
-              </div>
-            {%- endif -%}
+    </div>
+  {% endif %}
+{% endif %}
 
-            {%- for block in section.blocks -%}
-              {%- case block.type -%}
-                {%- when 'collapsible_tab' -%}
-                  <div class="summary__title tablinks" onclick="openTab(event, '{{ block.settings.heading | handle }}')" data-id="{{ block.settings.heading | handle }}">
-                    <h6 class="accordion__title">
-                      {{ block.settings.heading | default: block.settings.page.title }}
-                    </h6>
-                  </div>
-              {%- endcase -%}
-            {%- endfor -%}
-          {%- if section.settings.show_review_tab -%}
-            <a class="summary__title tablinks" onclick="openTab(event, 'tab-reviews')" data-id="tab-reviews">
-              {{ 'products.product.reviews' | t }}
-            </a>
-          {%- endif -%}
-          </div>
-
-          {%- if product.description != blank -%}
-            <div class="dt-sc-tabs-content rte" id="tab-description" style="display:block;">
-              {{ product.description }}
-            </div>
-          {%- endif -%}
-
-          {%- for block in section.blocks -%}
-            {%- case block.type -%}
-              {%- when 'collapsible_tab' -%}
-                <div class="dt-sc-tabs-content rte" id="{{ block.settings.heading | handle }}">
-                  {{ block.settings.content }}
-                  {{ block.settings.page.content }}
-                </div>
-            {%- endcase -%}
-          {%- endfor -%}
-         {%- if section.settings.show_review_tab -%}
-              <div class="dt-sc-tabs-content rte" id="tab-reviews">
-                {{ section.settings.rating_script }}
-              </div>
-            {%- endif -%}
-        </div>
-      {% endif %}
-      {% endif %}
-      
-
-      {%- if product.media.size > 0 -%}
-        <script src="{{ 'product-modal.js' | asset_url }}" defer="defer"></script>
-        <script src="{{ 'media-gallery.js' | asset_url }}" defer="defer"></script>
-      {%- endif -%}
-
-      {%- if first_3d_model -%}
-        <script type="application/json" id="ProductJSON-{{ product.id }}">
-          {{ product.media | where: 'media_type', 'model' | json }}
-        </script>
-        <script src="{{ 'product-model.js' | asset_url }}" defer></script>
-      {%- endif -%}
-
-      {%- liquid
-        render 'dT_product_bundle'
-        if section.settings.enable_enquiry
-          render 'enquiry-form'
-        endif
-      %}
-
+{% comment %} End new tab component {% endcomment %}
 {%  render 'sticky-cart-bar' %}
       <script>
         document.addEventListener('DOMContentLoaded', function() {
@@ -2180,7 +2099,7 @@
   "label": "t:sections.main-product.blocks.collapsible_tab.settings.icon.label"
   },
   {
-  "type": "richtext",
+  "type": "html",
   "id": "content",
   "label": "t:sections.main-product.blocks.collapsible_tab.settings.content.label"
   },

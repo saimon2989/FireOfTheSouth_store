@@ -191,7 +191,7 @@ ul.dt-nav > li > a {
   margin: 10px 0;
   position: relative;
   box-sizing: border-box;
-  color: rgb(var(--color-foreground));
+  color: rgb(255, 96, 0);
   border-radius: var(--DTRadius);
   transition: all 0.3s linear;
   text-transform: capitalize;
@@ -201,7 +201,7 @@ ul.dt-nav li.active > a,
 ul.dt-nav > li:hover > a,
 ul.dt-nav > li.active > a,
 ul.dt-nav > li.active > a.mega-menu > span:after {
-  color: var(--gradient-base-background-1);
+  color: rgb(255, 96, 0);
 }
 ul.dt-nav > li.has-mega-menu > div.sub-menu-block {
   text-align: start;
@@ -913,11 +913,18 @@ ul.dt-nav {
 .icon-search:hover,
 .header__icons a:hover,
 .header__search.icon__fallback-content .header__icon--search:hover {
-background:var(--gradient-base-accent-2);
+background: rgb(12, 20, 34);
 
 }
+
+/* Color search icon */
+.icon-search svg{
+  color:rgb(255, 96, 0)
+}
+
 .icon-search:hover svg,
-.header__icons a:hover svg{color:var(--gradient-base-background-1);fill:var(--gradient-base-background-1)}
+.header__icons a:hover svg{color:rgb(255, 96, 0);fill:var(--gradient-base-background-1);}
+.header__icons .icon-search a:hover svg{color:rgb(255, 96, 0);}
 @media screen and (min-width: 991px) {
   .header__icons.icon__fallback-content a,
   .header__search.icon__fallback-content .header__icon--search {

@@ -627,7 +627,7 @@ footer .banner__media.media img {
   line-height: normal;
   font-weight: 600;
   letter-spacing: 3px;
-  margin: 0px 0px 40px 0px;color: var(--gradient-base-accent-1);
+  margin: 0px 0px 40px 0px; color: #ECE7D7;
     text-transform: uppercase;
     font-size: clamp(1.8rem, 1.76rem + 0.2vw, 2rem);
 }
@@ -799,17 +799,23 @@ ul.contact-info li.office-mail a:hover {
 .footer .newsletter-form__field-wrapper .field__input {
   padding: 0 2.6rem 0 2.6rem;color: inherit;
     border: 1px solid var(--gradient-base-accent-1);
-    background: transparent;
+    background: #FFFFFF;
     transition: var(--duration-long);
 }
-ul.contact-info.list-unstyled svg{margin-right:20px;}
+ul.contact-info.list-unstyled svg{margin-right:20px;fill: #FF6000;}
+ul.contact-info.list-unstyled g{fill: #FF6000;}
+/* Estilo para el icono de ubicación */
+.address svg path {
+  fill: #FF6000 !important; /* Cambia el color de relleno al color deseado */
+}
 
 .footer_menu li:before{content:'';position:relative;width:5px;height:5px;background:currentcolor;display:inline-block;top:-3px;}
 .footer_menu li a{margin-left:8px}
 .footer-block__newsletter .footer-block__details-content-newsletter p{font-size: 16px;
     font-weight: 500;
     letter-spacing: 1px;
-    margin-top: 20px;}
+    margin-top: 20px;
+  color: #ECE7D7;}
 .footer-block__newsletter .newsletter-form__field-wrapper{gap:1rem;margin-bottom:0;}
 .footer-block__newsletter  .newsletter-form__field-wrapper .wa{font-size:14px}
 .footer .newsletter-form__field-wrapper .field__input {padding-right:10rem;}
@@ -823,9 +829,16 @@ ul.contact-info.list-unstyled svg{margin-right:20px;}
 }
 .footer .newsletter-form__field-wrapper .field__input:focus{border:1px solid var(--gradient-base-accent-2)}
 
-.footer_address .social-new li .list-social__link:hover svg{
+.footer_address .social-new li {
   color: var(--gradient-base-background-1);
+} 
+.list-social__link:hover svg{
+  color: #FF6000 !important;
 } 
 
 
 .footer_address .social-new li:hover{background: var(--gradient-base-accent-2);}
+
+.list-social__item  {
+  background: #ECE7D7 !important; /* Cambia el color de fondo al color deseado */
+}

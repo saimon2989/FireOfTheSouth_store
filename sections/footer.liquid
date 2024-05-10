@@ -42,7 +42,7 @@
   h2.footer-block__heading:after{content: '';
     position: relative;
     display: inline-block;
-    background: #f5cb42;
+    background: #FF6000;
     width: 40px;
     height: 2px;
     justify-content: space-between;
@@ -309,7 +309,7 @@
          <small class="copyright__content">{{ powered_by_link }}</small>
           <small class="copyright__content">&copy; {{ 'now' | date: "%Y" }}, {{ shop.name | link_to: routes.root_url }}</small>
            {%  else %}
-           <small class="copyright__content">{{ section.settings.copyright_content }}</small>
+           <small class="copyright__content">All Right Reserved © 2023 SodaTeam</small>
         {% endif %}
         </div>
         {% if section.settings.footer_logo != blank %}

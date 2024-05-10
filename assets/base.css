@@ -728,8 +728,11 @@ a {
   transition: all var(--duration-default) linear;
 }
 
+.link--text-menu-tablet {
+  color: #FF6000;
+}
 .link--text {
-  color: rgb(var(--color-foreground));
+  color: rgb(105, 87, 61);
 }
 .link:hover,
 .customer a:hover {
@@ -737,7 +740,7 @@ a {
 }
 
 .link--text:hover {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(107, 88, 61, 0.75);
 }
 
 .link-with-icon {
@@ -1765,7 +1768,7 @@ button.shopify-payment-button__button--unbranded {
   border: 0;
   cursor: pointer;
   text-decoration: none;
-  color: rgb(var(--color-button-text));
+  color: #FF6000;
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   white-space: nowrap;
@@ -2736,7 +2739,7 @@ input[type="checkbox"] {
   .index-header{position:relative}
 }
 .header .header-row {
-  display: grid;
+  display: flex;
   grid-template-areas: "left-icon heading icons";
   row-gap: 10px;
   grid-template-columns: 1fr 1.3fr 1fr;
@@ -2748,6 +2751,7 @@ input[type="checkbox"] {
   left: 0;
   right: 0;
   /*   max-width: 100%; */
+  justify-content: space-between;
 }
 .header .localization-form:only-child {
   margin: 0;
@@ -2865,7 +2869,18 @@ input[type="checkbox"] {
 .header__icon::after {
   content: none;
 }
-
+/* Estilo para el icono de búsqueda */
+.icon-search svg {
+  fill: #FF6000; /* Cambia el color de relleno al color deseado */
+}
+.icon-search:hover svg {
+  fill: #FF6000 !important;  /* Cambia el color de relleno al color deseado */
+}
+/* Estilo para el icono del carrito */
+.header__icon--cart svg {
+  fill: #FF6000; /* Cambia el color de relleno al color deseado */
+  color: #ff6000;
+}
 /* .header__icon:hover .icon, */
 /* .header__icon:hover svg, */
 .header__icon--cart:hover svg,

@@ -309,11 +309,17 @@
         </div>
         <div class="button_with_price">
         <div class="button_left">
-          <a href="{{ card_product.url }}" class="button">More Details</a>
+          <a href="{{ card_product.url }}" class="button">See Route</a>
         </div>
-        <div class="price_block">
+        <div class="price_block" style="display: none;">
         {{ card_product.metafields.custom.person }}
         {% render 'price', product: card_product, price_class: '' %}   
+        </div>
+        {% comment %} Route Specifications {% endcomment %}
+        <div class="price_block">
+          <p>Duration: {{ product.metafields.custom.duration }}</p>
+          <p>Total Distance: {{ product.metafields.custom.total_distance }}</p>
+          
         </div>
         </div>
          <span class="caption-large light">{{ block.settings.description | escape }}</span>
