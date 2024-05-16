@@ -2813,7 +2813,7 @@ input[type="checkbox"] {
 
 .header__heading-logo {
   height: auto;
-  /*   width: 100%; */
+    width: 140px;
 }
 
 @media screen and (max-width: 1279px) {

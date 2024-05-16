@@ -104,6 +104,42 @@
           {%- endif -%}
         </div>
       </div>
+<script>
+  // Realiza una solicitud GET a la API de "REST Countries" para obtener los datos de los países
+fetch('https://restcountries.com/v3.1/all')
+  .then(response => response.json())
+  .then(data => {
+    // Parsea la respuesta JSON para obtener los nombres y códigos de los países
+    const countries = data.map(country => {
+      return {
+        name: country.name.common,
+        code: country.cca2
+      };
+    });
+
+    // Utiliza los datos para construir tu formulario de selección de país
+    const select = document.getElementById('ContactForm-country');
+    countries.forEach(country => {
+      const option = document.createElement('option');
+      option.text = country.name;
+      option.value = country.code;
+      select.appendChild(option);
+    });
+  })
+  .catch(error => console.error('Error fetching countries:', error));
+</script>
+       <!-- Otros campos de formulario -->
+  <div class="field">
+    {% assign countries = shop.countries %}
+    <select class="field__input" id="ContactForm-country" name="contact[country]" required>
+      <option value="" disabled selected>Country</option>
+      {% for country in countries %}
+        <option value="{{ country.code }}">{{ country.name }}</option>
+      {% endfor %}
+    </select>
+    <label class="field__label visually-hidden" for="ContactForm-country">País</label>
+  </div>
+
      <div class="field">
         <input type="tel" id="ContactForm-phone" class="field__input" autocomplete="tel" name="contact[{{ 'templates.contact.form.phone' | t }}]" pattern="[0-9\-]*" value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}" placeholder="{{ 'templates.contact.form.phone' | t }}" required>
         <label class="field__label visually-hidden" for="ContactForm-phone">{{ 'templates.contact.form.phone' | t }}</label>

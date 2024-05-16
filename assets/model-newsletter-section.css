@@ -51,7 +51,7 @@
 /*    .newsletter-content{margin:0 auto;} */
     .newsletter-modal{
      display:flex;
-    padding: 10px;
+    padding: 20px 25px;
    width: 100%;
     max-width: 1000px;
     height: 450px;
